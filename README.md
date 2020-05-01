@@ -4,7 +4,7 @@
 
 # Geographic Distribution of COVID-19 Cases Worldwide | ECDC
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-xivbva4hrpnwe](https://aws.amazon.com/marketplace/pp/prodview-xivbva4hrpnwe). 
 
 ## Product Description
 This product includes the European Centre for Disease Prevention and Control's (ECDC) dataset on the daily geographic distribution of COVID-19 cases worldwide.
