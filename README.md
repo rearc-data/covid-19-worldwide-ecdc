@@ -16,7 +16,7 @@ This product includes the European Centre for Disease Prevention and Control's (
 [European Centre for Disease Prevention and Control | About ECDC](https://www.ecdc.europa.eu/en/about-ecdc)
 
 #### Data Source
-The dataset included with this product is provided in CSV, JSON, XLSX and XML. The following columns are included in the data files:
+The dataset included with this product is provided in CSV, JSON, XLSX and XML. The following columns are used in the dataset:
 
 `dateRep, day, month, year, cases, deaths, countriesAndTerritories, geoId, countryterritoryCode, popData2018, continentExp`
 
@@ -28,7 +28,7 @@ The dataset included with this product is provided in CSV, JSON, XLSX and XML. T
 - Format: CSV, JSON, XLSX, XML
 
 ## Contact Details
-- If you find any issues or have enhancements with this product, open up a GitHub [issue](https://github.com/rearc-data/covid-19-ecdc/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
+- If you find any issues or have enhancements with this product, open up a GitHub [issue](https://github.com/rearc-data/covid-19-worldwide-ecdc/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
 - If you are interested in any other open datasets, please create a request on our project board [here](https://github.com/rearc-data/covid-datasets-aws-data-exchange/projects/1).
 - If you have questions about this source data, please contact ECDC at info@ecdc.europa.eu.
 - If you have any other questions or feedback, send us an email at data@rearc.io.
