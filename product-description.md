@@ -2,7 +2,7 @@
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/covid-19-worldwide-ecdc](https://github.com/rearc-data/covid-19-worldwide-ecdc).
 
-## Product Description
+## Main Overview
 This product includes the European Centre for Disease Prevention and Control's (ECDC) dataset on the daily geographic distribution of COVID-19 cases worldwide.
 
 > ECDC is an EU agency aimed at strengthening Europe's defences against infectious diseases. The core functions cover a wide spectrum of activities: surveillance, epidemic intelligence, response, scientific advice, microbiology, preparedness, public health training, international relations, health communication, and the scientific journal Eurosurveillance.

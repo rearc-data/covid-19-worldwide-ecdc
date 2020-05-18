@@ -6,7 +6,7 @@
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-xivbva4hrpnwe](https://aws.amazon.com/marketplace/pp/prodview-xivbva4hrpnwe). 
 
-## Product Description
+## Main Overview
 This product includes the European Centre for Disease Prevention and Control's (ECDC) dataset on the daily geographic distribution of COVID-19 cases worldwide.
 
 > ECDC is an EU agency aimed at strengthening Europe's defences against infectious diseases. The core functions cover a wide spectrum of activities: surveillance, epidemic intelligence, response, scientific advice, microbiology, preparedness, public health training, international relations, health communication, and the scientific journal Eurosurveillance.
